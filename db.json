@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctor Appointment",
+      "day": "Mach 1st at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Food Shopping",
+      "day": "April 1st at 8:3apm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Visitors Appointment",
+      "day": "April 6th at 3:00pm",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Meeting at school",
+      "day": "April 19st at 10:30am",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Football Match",
+      "day": "Mach 1st at 1:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Academia space",
+      "day": "April 10 at 3:00pm",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
